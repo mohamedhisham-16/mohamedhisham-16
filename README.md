@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently a student at SSN<br>MTech (int) CSE<br><br>Exploring the world of Full-stack
+# MOHAMED HISHAM A
+Student at SSN<br>MTech (int) CSE<br><br>Exploring the world of Full-stack
 
 
 ## 🌐 Socials:
